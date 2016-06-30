@@ -1,0 +1,20 @@
+PODS:
+  - APParallaxHeader (0.1.6)
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - SWTableViewCell (0.3.7)
+
+DEPENDENCIES:
+  - APParallaxHeader
+  - ChameleonFramework
+  - SWTableViewCell (~> 0.3.7)
+
+SPEC CHECKSUMS:
+  APParallaxHeader: 854bc48a2487ca12c702f8a236fec0d89cdac5c3
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+
+PODFILE CHECKSUM: 93ac9329caddd37ee66f3306b7899d53c1246bca
+
+COCOAPODS: 1.0.1
